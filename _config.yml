@@ -1,7 +1,7 @@
 name: Roots and Wings
 favicon: null
-layout_spectrum: 0.1717703603208065
-typography_spectrum: 0.8346021347679198
+layout_spectrum: 1
+typography_spectrum: 0.21165
 title: Roots and Wings
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#110f17'
+    - '#d7d6d2'
+    - '#bab8b9'
+    - '#655057'
+    - '#44343f'
   brandStrength: 0.5973309818655252
-  lightness: 0.07123585138469934
-  saturation: 0.7163005801849067
-  rhythmicContrast: 0.8479617410339415
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
