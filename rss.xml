@@ -4,7 +4,7 @@
         <description><![CDATA[Roots and Wings]]></description>
         <link>https://thegrid.ai/roots-and-wings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 17:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 21:08:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roots-and-wings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Leaders are readers]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/roots-and-wings/leaders-are-readers/index.html</link>
             <guid isPermaLink="false">2842c05d-f17a-43c1-a4e3-12155001b8da</guid>
             <pubDate>Tue, 05 Jan 2016 06:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the shoulders of Giants]]></title>
-            <description><![CDATA[<article><h1>On the shoulders of Giants</h1><p>More text goed here...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be4d893aaff246b75ed95be1e4d38b8a09ac4122.jpg"></article>]]></description>
-            <link>https://thegrid.ai/roots-and-wings/on-the-shoulders-of-giants/index.html</link>
-            <guid isPermaLink="false">5f78ec74-b526-4aef-b5b0-1aad9ab8db8d</guid>
-            <pubDate>Sun, 27 Dec 2015 17:26:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
