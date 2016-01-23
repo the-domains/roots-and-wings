@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: About my personal quest to become the best man I can possibly be.
-datePublished: '2016-01-23T15:03:51.314Z'
+datePublished: '2016-01-23T15:03:51.346Z'
 dateModified: '2016-01-23T15:03:46.735Z'
 title: Roots and Wings
 author: []
