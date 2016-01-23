@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: About my personal quest to become the best man I can possibly be.
-datePublished: '2016-01-23T15:03:35.693Z'
-dateModified: '2016-01-23T15:03:17.183Z'
+datePublished: '2016-01-23T15:03:51.314Z'
+dateModified: '2016-01-23T15:03:46.735Z'
 title: Roots and Wings
 author: []
 authors: []
