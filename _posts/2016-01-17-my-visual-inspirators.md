@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Description text
-datePublished: '2016-01-23T14:28:12.883Z'
-dateModified: '2016-01-23T14:17:22.471Z'
+datePublished: '2016-01-23T14:28:57.553Z'
+dateModified: '2016-01-23T14:28:49.822Z'
 title: My visual inspirators
 author: []
 sourcePath: _posts/2016-01-17-my-visual-inspirators.md
