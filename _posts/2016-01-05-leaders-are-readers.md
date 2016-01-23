@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:6ca18a2c-0bbc-4b9a-b652-946f758543ec'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-01-23T14:32:04.005Z'
+dateModified: '2016-01-23T13:54:57.194Z'
 author: []
-datePublished: '2016-01-05T06:12:30.338Z'
-publisher:
-  domain: ''
-  name: ''
 title: Leaders are readers
-dateModified: '2016-01-05T06:10:58.792Z'
 sourcePath: _posts/2016-01-05-leaders-are-readers.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: leaders-are-readers/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
