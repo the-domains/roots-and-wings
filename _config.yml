@@ -1,6 +1,6 @@
 name: Roots and Wings
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25193
 typography_spectrum: 0.21165
 title: Roots and Wings
 cta:
@@ -22,8 +22,8 @@ color:
     - '#bab8b9'
     - '#655057'
     - '#44343f'
-  brandStrength: 0.5973309818655252
+  brandStrength: 0.1875
   lightness: 0.6875
   saturation: 0.8125
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
