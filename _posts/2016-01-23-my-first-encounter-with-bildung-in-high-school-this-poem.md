@@ -17,8 +17,8 @@ keywords:
   - worn-out
   - kings-nor
 description: ''
-datePublished: '2016-01-23T15:12:29.110Z'
-dateModified: '2016-01-23T15:12:26.087Z'
+datePublished: '2016-01-23T15:20:55.133Z'
+dateModified: '2016-01-23T15:20:53.298Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>If- by Rudyard Kipling : The Poetry Foundation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70098ccb744627a2e75bd16031b16826816395c6.jpg" /></article>
+<article style=""><h1>If- by Rudyard Kipling : The Poetry Foundation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7502c071d67b1cb56880c8c650e8fa307570b26e.jpg" /></article>
 
 # My first encounter with 'bildung' in high school. This poem, in retrospect, sparked my interest for personal development. 
 
