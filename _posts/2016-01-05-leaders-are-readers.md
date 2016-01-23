@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T14:32:04.005Z'
+datePublished: '2016-01-23T14:32:04.074Z'
 dateModified: '2016-01-23T13:54:57.194Z'
 author: []
 title: Leaders are readers
