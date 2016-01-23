@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: About my personal quest to become the best man I can possibly be.
-datePublished: '2016-01-23T15:03:51.346Z'
-dateModified: '2016-01-23T15:03:46.735Z'
+datePublished: '2016-01-23T15:04:09.911Z'
+dateModified: '2016-01-23T15:04:06.928Z'
 title: Roots and Wings
 author: []
+sourcePath: _posts/2016-01-23-roots-and-wings.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-roots-and-wings.md
-published: true
 url: roots-and-wings/index.html
 _type: Article
 
