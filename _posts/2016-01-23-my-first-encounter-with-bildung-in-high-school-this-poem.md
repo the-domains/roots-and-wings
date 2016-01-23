@@ -16,9 +16,9 @@ keywords:
   - lose
   - worn-out
   - kings-nor
-description: "('Brother Square-Toes' -Rewards and Fairies) If you can keep your head when all about you Are losing theirs and blaming it on you, If you can trust yourself when all men doubt you, But make allowance for their doubting too; If you can wait and not be tired by waiting,"
-datePublished: '2016-01-23T14:31:57.490Z'
-dateModified: '2016-01-23T14:31:53.755Z'
+description: ''
+datePublished: '2016-01-23T15:11:10.220Z'
+dateModified: '2016-01-23T15:11:01.505Z'
 author: []
 related: []
 app_links: []
@@ -35,9 +35,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# My first encounter with 'bildung' in high school. This poem, in retrospect, sparked my interest for personal development. 
-
 <article style=""><h1>If- by Rudyard Kipling : The Poetry Foundation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70098ccb744627a2e75bd16031b16826816395c6.jpg" /></article>
+
+# My first encounter with 'bildung' in high school. This poem, in retrospect, sparked my interest for personal development. 
 
 If you can keep your head when all about you   
 
